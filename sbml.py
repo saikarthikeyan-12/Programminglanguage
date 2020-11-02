@@ -1,7 +1,3 @@
-'''
-SAIKARTHIKEYAN KUMAR 112968768
-'''
-
 class Node:
     def __init__(self):
         self.parent = None
